@@ -16,7 +16,7 @@ enriching the multimedia content offering.
 To deploy a pre-trained or Fine tuned model using HUGGING FACE SPACES OR AWS
 services, making it accessible through a web application built with Streamlit or Gradio.
 
-* Skills take away :
+# Skills take away :
 
  * Deep Learning,
  * Transformers,
