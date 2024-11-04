@@ -27,6 +27,7 @@ services, making it accessible through a web application built with Streamlit or
 # Results:
 • Functional Web Application: A fully functional web application that users can access
 to interact with the pre-trained GPT model.
+
 • Scalable Deployment: A scalable deployment framework using Hugging Face
 services services.
 
