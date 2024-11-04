@@ -12,7 +12,7 @@ Create a user-friendly, web-based application that can:
 3. Produces creative written content based on the same or separate translated text,
 enriching the multimedia content offering.
 
-* Objective:
+# Objective:
 To deploy a pre-trained or Fine tuned model using HUGGING FACE SPACES OR AWS
 services, making it accessible through a web application built with Streamlit or Gradio.
 
@@ -24,7 +24,7 @@ services, making it accessible through a web application built with Streamlit or
  * LLM,
  * Streamlit or Gradio/AWS
 
-* Results:
+# Results:
 • Functional Web Application: A fully functional web application that users can access
 to interact with the pre-trained GPT model.
 • Scalable Deployment: A scalable deployment framework using Hugging Face
